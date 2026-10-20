@@ -111,7 +111,7 @@ jobs:
           # do arquivo ZIP.
           # ==================================================
 
-          PROJECT_FOLDER: "Administracasa"
+          PROJECT_FOLDER: "GranaFelizAndroid"
 
         run: |
           set -euo pipefail
